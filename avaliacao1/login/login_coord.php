@@ -80,7 +80,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </div>
             <div class="form-group">
                 <input type="submit" class="btn btn-primary" value="Acessar">
-                <a href="logout.php" class="btn btn-danger logout-button">Voltar</a>
+                <a href="index.php" class="btn btn-danger logout-button">Voltar</a>
             </div>
         </form>
     </div>    
