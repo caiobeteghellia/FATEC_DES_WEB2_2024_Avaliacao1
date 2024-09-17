@@ -91,7 +91,7 @@ if (file_exists($arquivoDSM)) {
         <h2>Desenvolvimento em Software Multiplataforma (DSM)</h2>
         <pre><?php echo htmlspecialchars($registrosDSM); ?></pre>
 
-        <a href="tela_coord.php" class="btn-logout">Voltar</a>
+        <a href="tela_tec.php" class="btn-logout">Voltar</a>
     </div>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
